@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Daniel C Posmik
+title: Daniel Posmik
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -49,8 +49,8 @@ profiles:
 
 interests:
   - Manifold Learning
-  - Brain Imaging
   - Topological and Geometric Data Analysis
+  - Brain Imaging
   - Statistical Network Analysis
 
 education:
@@ -169,4 +169,10 @@ awards:
       Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
+My name is Daniel Posmik [(He/Him/His)](https://pronouns.org/what-and-why) and I am a doctoral student in the Biostatistics Department at Brown University.
+
+I am interested in high-dimensional inference problems that involve networks, geometry, and shapes. Currently, I am excited about manifold estimation and embedding for graph-structured data. My goal is to develop assumption-lean statistical tools for high-dimensional biomedical data, particularly brain imaging data. I am very fortunate to be advised by Prof. [Ani Eloyan](https://www.anieloyan.com/). 
+
+Before starting my PhD, I spent some time thinking about causal decomposition methods with Prof. [Guanglei Hong](https://humdev.uchicago.edu/directory/guanglei-hong) at the University of Chicago. 
+
+In my free-time, I am an avid nature lover, urbanist, and lover of dogs. If you are interested in having a chat on any of the above, please do not hesitate to reach out to me at daniel_posmik[at]brown[dot]edu.
