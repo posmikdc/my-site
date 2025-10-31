@@ -27,7 +27,7 @@ role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Brown University, Department of Biostatistics 121 S Main St, Providence, RI 02903
+  - name: Brown University, Department of Biostatistics, 121 S Main St, Providence, RI 02903
     url: https://biostatistics.sph.brown.edu/
 
 # Social network links
