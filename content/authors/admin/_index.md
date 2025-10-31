@@ -42,6 +42,8 @@ profiles:
     url: https://www.linkedin.com/in/posmikdc/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=sRuEm5oAAAAJ
+  - icon: academicons/cv
+    url: https://github.com/posmikdc/latex/blob/main/cv/cv.pdf
 
 interests:
   - Manifold Learning
